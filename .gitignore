@@ -1,0 +1,12 @@
+venv
+.idea
+2. Project Tensorflow/CNN/dataset/happy-or-sad.zip
+2. Project Tensorflow/CNN/dataset/horse-or-human.zip
+2. Project Tensorflow/CNN/dataset/validation-horse-or-human.zip
+2. Project Tensorflow/CNN/dataset/cats_and_dogs_filtered.zip
+2. Project Tensorflow/CNN/dataset/kagglecatsanddogs_3367a.zip
+2. Project Tensorflow/CNN/dataset/rps.zip
+2. Project Tensorflow/CNN/dataset/rps-test-set.zip
+2. Project Tensorflow/CNN/dataset/rps-validation.zip
+2. Project Tensorflow/NLP/dataset/glove.6B.100d.txt
+2. Project Tensorflow/Time Series/dataset/training_cleaned.csv
