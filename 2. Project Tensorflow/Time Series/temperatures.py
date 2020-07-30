@@ -16,7 +16,7 @@ def plot_series(time, series, format="-", start=0, end=None):
 time_step = []
 temps = []
 
-with open('../../dataset/daily-min-temperatures.csv') as csvfile:
+with open('dataset/daily-min-temperatures.csv') as csvfile:
     reader = csv.reader(csvfile)
     next(reader)
     step = 0

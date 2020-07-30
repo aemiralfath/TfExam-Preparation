@@ -15,7 +15,7 @@ def plot_series(time, series, format="-", start=0, end=None):
 
 time_step = []
 sunspots = []
-with open("../../dataset/Sunspots.csv") as csvfile:
+with open("dataset/Sunspots.csv") as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
     next(reader)
     for row in reader:

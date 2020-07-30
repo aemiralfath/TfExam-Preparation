@@ -32,7 +32,7 @@ stopwords = ["a", "about", "above", "after", "again", "against", "all", "am", "a
              "yourself", "yourselves"]
 print(len(stopwords))
 
-with open("../../dataset/bbc-text.csv", 'r') as csvfile:
+with open("dataset/bbc-text.csv", 'r') as csvfile:
     reader = csv.reader(csvfile)
     next(reader)
 
