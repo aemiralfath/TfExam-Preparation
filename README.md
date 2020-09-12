@@ -14,7 +14,7 @@
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
-* [Tensorflow in Practice](https://www.coursera.org/account/accomplishments/specialization/certificate/PKMVM99Q5MSE)
+* [Tensorflow in Practice](https://www.credential.net/10b55b26-1fe7-45c1-9788-d2b6c6768bff)
 
 --------------------------------------------------------------------------------------------------------------
 
